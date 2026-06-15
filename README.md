@@ -3,7 +3,7 @@
 <h3 align="center"> ♨️Backend Software Engineer♨️  </h3>
 
 
-<p align="left">🌐 I'm a passionate Software Developer, committed to continuous learning, with a focus on efficient and scalable solutions. Enthusiastic about object-oriented programming and technological challenges. Committed to excellence in designing and implementing robust applications. Ready to collaborate and contribute my experience to the world of Java development!.</p>
+<p align="left">🌐 I'm a passionate Software Engineer, committed to continuous learning, with a focus on efficient and scalable solutions. Enthusiastic about object-oriented programming and technological challenges. Committed to excellence in designing and implementing robust applications. Ready to collaborate and contribute my experience to the world of Java development!.</p>
 
 <div align="center">
   <h3>⚡Skills:</h3>
